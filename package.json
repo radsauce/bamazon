@@ -15,5 +15,14 @@
     "express": "^4.16.4",
     "mysql2": "^1.6.1",
     "sequelize": "^4.41.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radsauce/bamazon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/radsauce/bamazon/issues"
+  },
+  "homepage": "https://github.com/radsauce/bamazon#readme"
 }
